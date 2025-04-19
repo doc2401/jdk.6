@@ -1,0 +1,4 @@
+jdk-6u30-apidocs.zip
+
+sha256sum: 92739c56e02fa6e7ac8d60a1f59a0ef4a59ac99ab2979d3cdc495bfecf1a50ab
+
